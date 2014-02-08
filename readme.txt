@@ -27,8 +27,6 @@ Upload the plugin in your blog then activate it.
 
 Use it within a widgetized area or call through the_widget (http://codex.wordpress.org/Function_Reference/the_widget) function.
 
-Note:
-
 example:
 
 	<?php the_widget( 'recommended_links_home_widget', 'title=Good Reads' ); ?>
