@@ -24,10 +24,4 @@ Upload the plugin in your blog then activate it.
 
 == Usage ==
 
-Use it with a dynamic_sidebar:
-
-	<?php if ( is_active_sidebar( 'sidebar-custom' ) ) : ?>
-		<div id="secondary" class="widget-area" role="complementary">
-			<?php dynamic_sidebar( 'sidebar-custom' ); ?>
-		</div><!-- #secondary -->
-	<?php endif; ?>
+Use it within a widgetized area or call through the_widget (http://codex.wordpress.org/Function_Reference/the_widget) function.
