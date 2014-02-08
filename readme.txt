@@ -12,9 +12,9 @@ A simple plugin for your recommended links.
 
 == Description ==
 
-Best for users that likes to show where they have positively reviewed, featured,
-and awarded from other sites in a two column layout (http://ven.revereasia.com/projects/wordpress/plugins/recommended-links/screenshot/rc-link.png).
-The plugin adds a rel="nofollow" attribute allows you to tell the search engines that
+Best for users that wish to show where they had positively reviewed, featured,
+and awarded from other sites in a two column layout (http://ven.revereasia.com/projects/wordpress/plugins/recommended-links/screenshot/rc-link.png). The plugin
+adds a rel="nofollow" attribute allows you to tell the search engines that
 you do not want the link to pass any link value (a.k.a. "PageRank"), that it should
 not be counted as an endorsement of the target page. This eliminates the value of
 the link for spammers, which is why Google invented it in the first place.
