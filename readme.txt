@@ -1,7 +1,7 @@
 === Recommended Links ===
 Contributors: Ven Francis Dano-og
 Author URI: http://ven.revereasia.com/
-Plugin URI: http://ven.revereasia.com/wordpress/plugins/recommended-links
+Plugin URI: https://github.com/venfrancis/recommended-links/
 Tags: recommend, link, blogroll, featured, links, recommended
 Requires at least: 3.0
 Tested up to: 3.6
